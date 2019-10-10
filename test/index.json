@@ -6,24 +6,8 @@
   "details": {
     "steps": [
       {
-        "title": "1. Getting around with Kubectl",
+        "title": "Kubernetes training",
         "text": "step1.md"
-      },
-      {
-        "title": "2. ",
-        "text": "step2.md"
-      },
-      {
-        "title": "3. ",
-        "text": "step3.md"
-      },
-      {
-        "title": "4. Port-Forwarding",
-        "text": "step4.md"
-      },
-      {
-        "title": "5. Ingress Controller",
-        "text": "step5.md"
       }
     ],
     "intro": {
