@@ -1,6 +1,6 @@
 {
   "title": "Ve Kubernetes course",
-  "description": "",
+  "description": "Kubernetes 101",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -10,6 +10,9 @@
         "text": "step1.md"
       }
     ],
+    "assets": {
+      "host01": 
+    }
     "intro": {
       "text": "intro.md"
     },
